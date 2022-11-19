@@ -5,8 +5,8 @@ Star this repository if it is useful for you.
 [![license](https://img.shields.io/github/license/takeyamajp/docker-rocky-sshd.svg)](https://github.com/takeyamajp/docker-rocky-sshd/blob/master/LICENSE)
 
 ## Supported tags and respective Dockerfile links  
-- [`latest`, `9`](https://github.com/takeyamajp/docker-rocky-sshd/blob/master/rocky9/Dockerfile)
-- [`8`](https://github.com/takeyamajp/docker-rocky-sshd/blob/master/rocky8/Dockerfile)
+- [`latest`, `rocky9`](https://github.com/takeyamajp/docker-rocky-sshd/blob/master/rocky9/Dockerfile)
+- [`rocky8`](https://github.com/takeyamajp/docker-rocky-sshd/blob/master/rocky8/Dockerfile)
 
 ## Image summary
     FROM rockylinux/rockylinux:9  
