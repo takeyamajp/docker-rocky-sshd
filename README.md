@@ -9,7 +9,7 @@ Star this repository if it is useful for you.
 - [`rocky8`](https://github.com/takeyamajp/docker-rocky-sshd/blob/master/rocky8/Dockerfile)
 
 ## Image summary
-    FROM rockylinux/rockylinux:9  
+    FROM rockylinux:9  
     MAINTAINER "Hiroki Takeyama"
     
     ENV TIMEZONE Asia/Tokyo
