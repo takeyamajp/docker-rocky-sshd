@@ -8,6 +8,9 @@ Star this repository if it is useful for you.
 - [`latest`, `rocky9`](https://github.com/takeyamajp/docker-rocky-sshd/blob/master/rocky9/Dockerfile)
 - [`rocky8`](https://github.com/takeyamajp/docker-rocky-sshd/blob/master/rocky8/Dockerfile)
 
+ ### Supported architectures: ([`more info`](https://github.com/docker-library/official-images#architectures-other-than-amd64))  
+ `amd64`, `arm64(for Raspberry Pi)`
+
 ## Image summary
     FROM rockylinux:9  
     MAINTAINER "Hiroki Takeyama"
